@@ -1,0 +1,9 @@
+D:\77211356\GitHub\TrackBarTest\TrackBarTest\bin\Debug\TrackBarTest.exe
+D:\77211356\GitHub\TrackBarTest\TrackBarTest\bin\Debug\TrackBarTest.pdb
+D:\77211356\GitHub\TrackBarTest\TrackBarTest\obj\Debug\TrackBarTest.frmMain.resources
+D:\77211356\GitHub\TrackBarTest\TrackBarTest\obj\Debug\TrackBarTest.Properties.Resources.resources
+D:\77211356\GitHub\TrackBarTest\TrackBarTest\obj\Debug\TrackBarTest.csproj.GenerateResource.Cache
+D:\77211356\GitHub\TrackBarTest\TrackBarTest\obj\Debug\TrackBarTest.exe
+D:\77211356\GitHub\TrackBarTest\TrackBarTest\obj\Debug\TrackBarTest.pdb
+D:\77211356\GitHub\TrackBarTest\TrackBarTest\obj\Debug\TrackBarTest.FrmTrackBar.resources
+D:\77211356\GitHub\TrackBarTest\TrackBarTest\obj\Debug\TrackBarTest.csprojResolveAssemblyReference.cache
