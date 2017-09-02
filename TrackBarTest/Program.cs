@@ -15,7 +15,7 @@ namespace TrackBarTest
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmTrackBar());
+            Application.Run(new frmMain());
         }
     }
 }
